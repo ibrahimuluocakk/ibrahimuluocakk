@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm ibrahim uluocak. I'm a full stack developer.
+Hello, I'm İbrahim Uluocak. I'm a full stack developer.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ibrahimuluocakx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ibrahim-uluocak-699582232) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/iuluocakkx) 
